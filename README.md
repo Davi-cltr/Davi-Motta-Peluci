@@ -17,6 +17,8 @@ I enjoy turning ideas into clean, useful software, from personal assistants to a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -26,7 +28,7 @@ I enjoy turning ideas into clean, useful software, from personal assistants to a
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [**StudentOs**](https://github.com/Davi-cltr/StudentOs) | A system to help students organize their school life. | Ruby | 🚧 In progress |
+| [**StudentOS**](https://github.com/Davi-cltr/StudentOs) | A full-stack app to organize school life: subjects, tasks, exams, grades and notes, with user accounts and per-user data. | Rails API, React, SQLite | ✅ Available |
 | [**Max**](https://github.com/Davi-cltr/Max) | An intelligent personal assistant built in Python. | Python | ✅ Available |
 
 ---
@@ -34,7 +36,8 @@ I enjoy turning ideas into clean, useful software, from personal assistants to a
 ## 🌱 Right now
 
 - 💼 Interning as a software developer at **Emotta Sistemas**
-- 🔭 Building **StudentOs**, my school organization system
+- 🎓 Just shipped **StudentOS**, a full-stack app with login, a dashboard and automated tests on CI
+- 🔭 Next: upgrading it to Rails 8 and improving my other projects
 - 📚 Learning: improving my English and deepening my React skills
 - 🤝 Open to feedback, ideas and collaboration
 
